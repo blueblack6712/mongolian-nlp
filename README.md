@@ -227,6 +227,12 @@ We adapted and enhanced the Mongolian POS tagging dataset from Ganchimeg's repos
    * Meta for LLaMA-2-3B
    * Hugging Face for transformers library and model hosting
 
+### 🙏 Acknowledgments
+Special Thanks
+We would like to express our gratitude to the following contributors for their valuable support and collaboration on this project:
+* https://github.com/c1truus
+* https://github.com/low0028
+
 ### Computational Resources
 
 * Autodl for providing GPU instances (RTX 4090 with 24GB VRAM)
